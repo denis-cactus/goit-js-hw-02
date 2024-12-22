@@ -1,0 +1,3 @@
+formatMessage(message, maxLength) {
+  
+}
